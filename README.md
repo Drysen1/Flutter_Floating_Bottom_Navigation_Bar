@@ -2,7 +2,7 @@
 
 Floating bottom navigation bars seems to be a more and more common design to use in mobile applications. This repository contains an example of a floatin bottom navigation bar. 
 
-See an online example: <hhttps://drysen1.github.io/flutter-web-examples/floating-bottom-navigation-bar/#//>
+See an online example: <https://drysen1.github.io/flutter-web-examples/floating-bottom-navigation-bar/#//>
 
 ![alt text](https://github.com/Drysen1/Flutter_Floating_Bottom_Navigation_Bar/blob/main/screenshots/floatingBottomBar.png)
 
